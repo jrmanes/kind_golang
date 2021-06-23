@@ -22,8 +22,7 @@ func Root(w http.ResponseWriter, r *http.Request) {
 }
 
 func Run() error {
-	// Initialize the database connection
-
+	// check the env var in order to set the port
 	port := os.Getenv("SERVER_PORT")
 	if port == "" {
 		port = "8080"
