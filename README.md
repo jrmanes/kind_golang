@@ -26,4 +26,10 @@ You can use the Makefile to make your development tasks easy.
 
 ---
 
+## Medium
+
+Post in [Medium](https://medium.com/@joseramonmanes/k8s-kind-docker-registry-for-local-development-environments-dcdfa362f67b)
+
+---
+
 Jose Ramón Mañes
